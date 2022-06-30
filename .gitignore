@@ -1,0 +1,6 @@
+*.idea
+*.log
+*.log.1
+
+# Project exclude paths
+/target/
